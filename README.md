@@ -1,9 +1,9 @@
-# Detect objects bot
+# Detect Objects Bot
 
-1. Download an .pt file form [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt) and put this in a project
+1. Download the .pt file from [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt) and place it in the project directory.
 
-2. Insert a token in line 87
+2. Insert your token in line 87.
 
-3. Invite your bot
+3. Invite your bot.
 
-4. Wtite !detect, paste image on message and wait a second
+4. Write !detect, attach an image to the message, and wait a moment.
